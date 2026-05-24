@@ -1,4 +1,12 @@
-<h1 align="center"> Voxasign </h1>
+<h1 align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/07fdeeb0-9a2b-4b63-92dd-2a267863f141" 
+    alt="VoxaSign Logo" 
+    width="50"
+    style="vertical-align: middle; margin-right: 15px; margin-top: 15px;"
+  />
+  VoxaSign
+</h1>
 <h3 align="center">AI-Powered Real-Time Sign Language → Text → Speech</h3>
 
 <p align="center">
@@ -136,11 +144,3 @@ python -m http.server 8000
 
 ---
 
-## 🛤️ Roadmap
-
-- [ ] 🧠 NLP-based sentence prediction  
-- [ ] 🔁 Two-way communication (Speech → Sign)  
-- [ ] 📱 Progressive Web App (Offline Mode)  
-- [ ] 🌍 Multi-language support  
-
----
