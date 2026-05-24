@@ -1,6 +1,4 @@
 <h1 align="center">
- <img width="150" height="150" alt="voxalogo" src="https://github.com/user-attachments/assets/0bd3154c-8d08-41ed-bbe6-9962ddd3a251" />
-
   VoxaSign
 </h1>
 <h3 align="center">AI-Powered Real-Time Sign Language → Text → Speech</h3>
